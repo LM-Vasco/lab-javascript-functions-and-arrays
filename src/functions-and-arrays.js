@@ -78,13 +78,15 @@ const wordsUnique = [
   'contagious',
   'simple',
   'bring',
+  'blunt',
   'sharp',
   'playground',
   'poison',
   'communion',
   'simple',
   'bring'
-];
+]; 
+
 
 function uniquifyArray(array) {
   let word =[];
